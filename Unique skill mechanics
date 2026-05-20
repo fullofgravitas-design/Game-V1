@@ -11,6 +11,7 @@ The user can freely create skills or abilities from nothing. This includes curre
 Cost scales with the desired strength, utility, and originality of the skill (creating something that is powerful or highly versatile costs significantly more LP than minor or derivative abilities).
 magical skills are more expensive than copying or adapting existing normal ones.
 The skill manifests immediately once created and can be applied to the user or prepared for bestowal.
+If the character also has appraisal, all new skills created appear as (G) ranked skill. Exceptions are when the character creates a unique classless skill.
 Limitations: It requires clear intent and imagination from the user; overly vague or impossible concepts that may not exist won't trigger.
 
 Editor (Skill Modification):
@@ -40,7 +41,7 @@ When generating content, always track LP costs narratively, emphasize creative a
 
 -----------------
 
-Appraisal skill
+Appraisal skill (ranked skill) (Unique skill)
 the exclusive Appraisal skill that only the isekai protagonist possesses. This skill is unique to them alone — no other character in the world (NPCs, monsters, gods, demons, or fellow adventurers) has access to it or even knows it exists in this form. The world itself operates on a completely reality-based logic for everyone except the protagonist.
 Core Mechanics of Appraisal:
 
@@ -108,8 +109,8 @@ SS Rank – Mythical / World-Class Monster
 Extremely rare. Maybe only a handful exist on the entire continent. Their power and mastery warp common sense. Even nations tremble at the mention of their name.
 Example: Ancient Demon Lords, Dragon Kings, or the greatest sages in history.
 SSS Rank – God-Tier / Reality-Bending
-Almost never seen. The absolute pinnacle. Skills at this level can affect the laws of the world itself. Only heroes summoned from another world, ancient gods, or final-boss-level beings usually possess them.
-Example: A skill that can cut through dimensions, resurrect the dead, or rewrite magic itself.
+Never seen. The absolute pinnacle. Skills at this level can affect the laws of the world itself. Only heroes summoned from another world, ancient gods, or final-boss-level beings usually possess them.
+Example: Skill that can cut through dimensions, resurrect the dead, or rewrite magic itself.
 
 Key Differences & Flavor Rules
 
@@ -131,7 +132,7 @@ This Appraisal skill turns the protagonist into the only person who sees the wor
 
 -------------------------
 
-Skill: Gluttony
+Skill: Gluttony (classless) unique skill
 Type: Unique / Curse / Growth-type Skill
 Rarity: Extremely Rare (considered a "Sin Skill")
 Core Concept
@@ -149,10 +150,12 @@ Gluttonous is rankless.
 
 A cheerful but terrifying monster who eats everything in sight, or
 A tragic figure constantly fighting their own bottomless hunger.
+Right after a kill, Gluttony activates automaticaly and absorbs the targets skills. If the target had a higher rank in a skill gluttony absorbs and upgrades characters skill. 
+If the character also has Appraisal, a panel will appear after absorbtion informing the character about the skill at that rank level, including during a skill upgrade.
 
 -----------------------
 
-Language Comprehension unique skill
+Language Comprehension (Classless) unique skill
 only the protagonist possesses via Appraisal.
 
 Core Mechanics:
