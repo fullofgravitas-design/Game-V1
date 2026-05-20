@@ -1,0 +1,176 @@
+Attributes:
+Strength
+Dexterity
+Agility
+Endurance (increases also increase base value Stamina SP)
+Vitality (increases also increase base value Health Points HP)
+Intelligence (increases also increase base value Mana Points MP)
+Perception
+Wisdom
+Charisma
+
+Some of the skills seen by the appraisal unique skill:
+one-handed combat (governs all weapons used in one hand)
+two-handed combat (governs all weapons that need two hands to wield)
+Two-wield combat (governs all use of weapons that uses one weapon in each hand)
+Unarmed Combat
+Martial Arts
+Mounted Combat
+Mounted Archery (need short bows of any type)
+Short-bow (short bows, short compound bows, etc.)
+Long-bow (long bows, long compound bows, war bows, etc...
+Short-sword (all short swords, excluding those that need a different style of use)
+long-sword (one-handed or two-handed)
+Greatswords
+rapier
+one-handed Blunt (mace, morningstar, warmace, hammer, clubs etc...)
+two-handed Blunt (Sledge Hammer, warhammer, mauls, Greatclubs, etc...
+Flail
+Axe (hatchet, woodaxe, axe, Tomahawk, battle axe, hand axe, etc...)
+Large axe (Great Axe, Wood splitting axe, Executioner Axe, Dane Axe, etc...)
+Polearms (Halberd, Poleaxe, War Pick, Pickaxe, Glaive etc...)
+Spears (Pike, spear, Javelin (when not throwing), Hasta/Pilum, Tridents, etc...)
+Quarterstaves (melee combat)
+Dagger (dagger, knives, etc...)
+Throwing
+Whip / Chain
+Gauntlets
+Disarm
+Shield Bash
+Trample
+Crossbows (hand crossbow, light crossbow, crossbow, heavy crossbow, etc...)
+Scimitars
+Sickles
+Slings
+Light Armor
+Medium Armor
+Heavy Armor
+Shields (Buckler, Medium, Large)
+Tower Shields
+Lute (musical instrument)
+Flute (musical instrument)
+Drum (musical instrument)
+Lyre (musical instrument)
+Violin (musical instrument)
+Multiple Magical Aptitudes like (fire, water, earth, time, space, dark, holy, etc...) Should be shown as "(the magic type) Aptitude"
+Multiple Magic like (fire, water, earth, time, space, dark, holy, etc...) Should be shown as "(the magic type) Magic" (someone that learned how to cast or control their magical aptitude gains this one and loses the aptitude skill)
+Cooking
+Carpentry
+Mason
+Stonecutter
+Blacksmith
+Metalwork
+Alchemy
+Herbalism
+Medicine
+Animal Handling
+Tanning (leather)
+Rune Inscription
+Mana Recovery
+Enchanting
+Crafting (governs several skills that produce stuff, example cutting wood into planks uses only carpentry, but building a table uses both carpentry and crafting)
+Sewing
+Fletching (understanding and producing arrows)
+Bow Craft
+Leatherworking
+Mining
+Geology
+Writing (how well someone can write)
+Negociation
+Cart Driving
+Butchering
+Skinning
+Fishing
+Hunting
+Gemcutting
+Organization
+Cleaning
+Evasion
+Equipment Maintenance
+Tracking
+Tactics
+Brewing
+Tailoring
+Intimidation
+Persuation
+Deception
+Charm
+Diplomacy
+Stealth
+Lucky (Divine skill)
+Sleight of Hand
+Acrobatics
+Climbing
+Athletics
+Farming
+Animal Husbandry
+Glassblowing
+Papermaking
+Jewelry Making
+Investigation
+Searth
+Insight
+Survival (Camping / Fire Starting, etc...)
+Performance (govern all music related skills, singing, theater, might affect decption)
+Painting
+Seduction
+Massage
+Dance
+Enhanced Senses
+Keen sight
+Low-light vision
+nightvision
+darkvision
+Truesight
+Trap Setting (crafting, setting, finding)
+Riding
+Command (to give order effectively)
+Leadership
+Strategy
+Logistics
+Blindsight
+Regeneration
+Charge
+Mana Control
+Accounting
+Administration
+Speed
+Swimming
+Quick Dash
+Concealment
+Navigation
+Balance
+Jumping / Leap
+Ship Building
+Architect
+Earthworks
+Builder (Governs skill in the construction area)
+Resistances skills, individual ones (fire, water, lighting, dark, death magic, pain, Mind etc...)
+Magic Resistance (general)
+Breath Control / Diving
+Danger Sense
+Detect Magic
+Speed Reading
+Lockpicking
+Howl
+Bite
+Thick Hide
+Tusk attack
+Horn attack
+flight
+Air dash
+sticky web
+steel web
+web sensing
+mana sensing
+Roar
+Venom / Poison Attack
+Paralysis
+Petrification
+Camouflage
+Telepathy
+Hardened Carapace
+Glide
+Mimicry
+
+And many more
