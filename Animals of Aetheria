@@ -1,0 +1,113 @@
+Name,Weight Range,Typical Behavior,Habitat,Notes
+Rabbit,1 – 4 kg,"Peaceful, flees","Grasslands, forests",Common food source
+Deer / Red Stag,80 – 250 kg,"Peaceful, fast","Forests, meadows",Hunted for meat and antlers
+Wolf,25 – 65 kg,Pack hunter,"Forests, mountains, tundra",Dangerous in groups
+Fox,4 – 18 kg,"Cunning, solitary","Forests, plains, tundra",Hunted for fur
+Black Bear,60 – 300 kg,"Solitary, opportunistic","Forests, mountains",Most common bear
+Brown Bear (Grizzly),150 – 600+ kg,"Solitary, powerful","Forests, mountains, rivers",Very dangerous when provoked
+Polar Bear,350 – 700+ kg,Solitary apex predator,"Northern ice, tundra",Largest bear species
+Lion,150 – 250 kg,Pride hunter,"Savannahs, grasslands",Males are larger
+Tiger,100 – 320+ kg,Solitary ambush predator,"Jungles, grasslands, taiga",Siberian tigers are the heaviest
+Leopard / Panther,30 – 90 kg,"Stealthy, solitary","Jungles, forests, mountains",Excellent climbers
+Horse,"400 – 1,200 kg","Domesticated, herd animal","Plains, farms, steppes",Warhorses are heavier
+Cattle (Cow / Bull),"400 – 1,800+ kg","Domesticated, herd","Farms, grasslands",Bulls are much larger
+Sheep / Goat,30 – 120 kg,"Domesticated, herd","Hills, mountains, farms","Wool, milk, meat"
+Wild Boar,60 – 350 kg,Aggressive forager,"Forests, swamps",Very dangerous when cornered
+Elephant,"4,000 – 7,000+ kg","Herd animal, intelligent","Savannahs, forests",Rare in northern regions
+Rock Ape / Baboon,10 – 40 kg,"Social, intelligent","Mountains, cliffs, forests",Can be aggressive
+Giant Ground Sloth,"500 – 1,200 kg","Slow, herbivore","Southern jungles, forests",Rare and peaceful
+Snow Leopard,25 – 55 kg,Stealthy mountain hunter,"High mountains, cold regions",Rare and beautiful
+Hippopotamus,"1,500 – 3,200 kg","Extremely aggressive, territorial","Rivers, lakes, swamps",Very dangerous in water
+Rhinoceros,"800 – 2,300 kg","Territorial, charges when threatened","Savannahs, grasslands",Powerful horn
+Bison,"400 – 1,200 kg","Herd animal, powerful charge","Plains, grasslands",Dangerous when provoked
+Moose,300 – 800 kg,"Solitary, aggressive when provoked","Forests, wetlands, cold regions",Largest deer species
+Elk (Red Deer),150 – 500 kg,"Herd animal, strong swimmer","Forests, mountains",Large antlers
+Giant Ground Sloth,"500 – 1,500 kg",Slow but incredibly strong,"Southern jungles, ancient forests",Peaceful unless attacked
+Woolly Mammoth,"4,000 – 8,000 kg","Herd animal, thick fur","Northern tundra, ice plains","Long tusks, ancient survivor"
+Saber-Toothed Tiger,200 – 400 kg,"Ambush predator, powerful bite","Grasslands, forests","Extinct in real world, survives here"
+Dire Wolf,60 – 100 kg,"Pack hunter, stronger than normal wolves","Plains, forests",Larger and more aggressive
+Giant Bison,"1,000 – 2,000 kg","Massive horns, very dangerous",Open plains,Rare and powerful
+Irish Elk (Giant Deer),"500 – 1,000 kg","Herd animal, enormous antlers","Forests, wetlands",Antlers can reach 3.5m wide
+Cave Bear,"400 – 1,000 kg","Solitary, omnivore","Caves, mountains",Larger than brown bears
+Giant Anteater,30 – 60 kg,"Peaceful, long tongue","Jungles, grasslands",Powerful claws
+Tapir,150 – 300 kg,"Peaceful, good swimmer","Jungles, forests, rivers",Odd-looking but gentle
+Okapi,200 – 350 kg,"Shy, zebra-like legs",Dense rainforests,Giraffe relative
+Giraffe,"800 – 1,900 kg","Peaceful, social","Savannahs, open plains","Extremely tall, graceful"
+Zebra,300 – 450 kg,"Herd animal, fast","Savannahs, grasslands","Striped pattern, fast runner"
+Camel,400 – 800 kg,"Hardy, stores water","Deserts, dry plains",Can go weeks without water
+Capybara,35 – 70 kg,"Calm, social","Rivers, wetlands","Largest rodent, very chill"
+Red Panda,3 – 6 kg,"Shy, tree climber",Mountain forests,"Cute, bamboo eater"
+Fennec Fox,1 – 1.5 kg,"Nocturnal, big ears","Deserts, arid regions","Excellent hearing, cute"
+Platypus,0.7 – 2.5 kg,"Semi-aquatic, egg-laying","Rivers, wetlands",Duck-bill + mammal (very fantasy-like)
+Armadillo,3 – 30 kg,"Armored, rolls into ball","Grasslands, deserts",Natural armor
+Yak,300 – 600 kg,"Hardy, long fur","High mountains, cold plateaus",Used as pack animal
+Reindeer / Caribou,80 – 250 kg,"Migratory, herd animal","Tundra, northern forests",Pulls sleighs in winter
+Walrus,"400 – 1,700 kg","Social, tusked",Cold northern coasts,"Large tusks, loud"
+Otter,5 – 30 kg,"Playful, intelligent","Rivers, coasts",Loves playing with tools
+Meerkat,0.6 – 1 kg,"Social, stands on hind legs","Deserts, savannahs",Sentinel behavior
+Porcupine,5 – 18 kg,"Defensive, quills","Forests, grasslands",Sharp quills for defense
+Hedgehog,0.5 – 1.5 kg,"Nocturnal, rolls into ball","Gardens, forests",Cute and spiky
+Raccoon,3 – 9 kg,"Clever, dexterous hands","Forests, near human settlements","""Trash panda"", very smart"
+Skunk,1 – 5 kg,Defensive spray,"Forests, grasslands",Strong smell when threatened
+Manatee,400 – 600 kg,"Gentle, slow swimmer","Warm rivers, coastal waters","""Sea cow"", very peaceful"
+Dugong,150 – 400 kg,"Herbivore, slow","Coastal waters, seagrass beds",Similar to manatee
+Donkey,150 – 400 kg,"Hardy, stubborn","Dry regions, farms",Excellent pack animal
+Mule,300 – 500 kg,Strong hybrid,"Farms, rough terrain",Cross between horse and donkey
+Ox,"600 – 1,500 kg","Strong, used for plowing","Farms, grasslands",Castrated bull for heavy labor
+Pig,50 – 300 kg,"Omnivore, fast growing","Farms, forests",Main source of pork
+Chicken,1 – 4 kg,"Social, ground forager","Farms, villages",Eggs and meat
+Duck,1 – 4 kg,Waterfowl,"Farms, ponds, wetlands","Eggs, meat, and feathers"
+Goose,3 – 8 kg,"Loud, aggressive guard","Farms, ponds","Meat, feathers, and guard animal"
+Turkey,5 – 15 kg,"Social, ground forager","Farms, grasslands",Popular meat for feasts
+Llama,100 – 200 kg,Calm pack animal,"Mountains, highlands",Wool and transport
+Alpaca,50 – 90 kg,"Shy, wool producer","Highlands, mountains",High-quality soft wool
+Water Buffalo,"500 – 1,200 kg",Strong swimmer,"Wetlands, rice fields","Plowing, milk, and meat"
+Pigeon / Dove,0.2 – 1 kg,"Flock bird, fast flyer","Cities, farms, forests","Messenger bird, common"
+Sparrow,15 – 40 g,"Small, social, fast","Cities, farms, grasslands",Very common small bird
+Robin,15 – 30 g,"Territorial, sings beautifully","Gardens, forests, parks","Red breast, popular songbird"
+Raven / Crow,0.5 – 2 kg,"Intelligent, opportunistic","Forests, mountains, cities",Known for problem-solving
+Eagle,2 – 7 kg,"Powerful hunter, soars high","Mountains, cliffs, open plains",Apex aerial predator
+Hawk,0.5 – 2 kg,Agile hunter,"Forests, grasslands, mountains",Fast and precise
+Falcon,0.5 – 2 kg,"Fastest flyer, dive hunter","Open plains, cliffs",Peregrine falcon is fastest animal
+Owl,0.2 – 4 kg,"Nocturnal hunter, silent flight","Forests, mountains, ruins",Excellent night vision
+Swan,6 – 15 kg,"Graceful, aggressive when nesting","Lakes, rivers, wetlands",Beautiful but can be dangerous
+Peacock,4 – 6 kg,Displays colorful tail,"Forests, farms, parks",Ornamental bird
+Parrot,0.1 – 2 kg,"Intelligent, can mimic sounds","Jungles, forests",Colorful and talkative
+Flamingo,2 – 4 kg,Wades in shallow water,"Lakes, lagoons, coastal areas",Pink color from diet
+Penguin,1 – 40 kg,"Swims well, waddles on land","Cold southern coasts, ice","Flightless, social"
+Ostrich,90 – 150 kg,Fastest running bird,"Savannahs, deserts",Largest living bird
+Emu,30 – 55 kg,"Fast runner, curious","Grasslands, forests",Second largest bird
+Vulture,4 – 14 kg,"Scavenger, soars high","Open plains, mountains",Cleans up dead animals
+Seagull,0.3 – 2 kg,Opportunistic scavenger,"Coasts, cities, farms",Loud and bold
+Crane,3 – 12 kg,"Elegant, dances during mating","Wetlands, rivers, lakes",Long legs and neck
+Stork,2 – 9 kg,Wades in shallow water,"Wetlands, rivers, farms",Often associated with babies
+Heron,1 – 8 kg,Patient hunter,"Wetlands, rivers, lakes",Stands still to catch fish
+Pelican,4 – 15 kg,Large pouch under beak,"Lakes, rivers, coasts",Excellent fisher
+Salmon,2 – 50 kg,"Migratory, strong swimmer","Rivers, oceans",Famous for jumping waterfalls
+Trout,0.5 – 15 kg,Freshwater predator,"Rivers, lakes",Popular game fish
+Tuna,5 – 600+ kg,Fast ocean predator,Open oceans,Very fast swimmer
+Cod,2 – 50 kg,Bottom feeder,Cold ocean waters,Common food fish
+Carp / Koi,1 – 40 kg,"Bottom feeder, ornamental","Rivers, ponds, lakes",Often kept in gardens
+Piranha,0.5 – 4 kg,Aggressive pack hunter,"Rivers, lakes (warm regions)","Sharp teeth, dangerous in groups"
+Electric Eel,10 – 40 kg,Generates electricity,"Rivers, swamps",Can stun prey and predators
+Catfish,1 – 200+ kg,"Bottom feeder, whiskers","Rivers, lakes, swamps",Very common in muddy waters
+Bass,0.5 – 10 kg,Aggressive predator,"Rivers, lakes",Popular sport fish
+Pike,2 – 35 kg,Ambush predator,"Rivers, lakes","Long body, sharp teeth"
+Shark,"10 – 2,000+ kg",Apex ocean predator,"Oceans, some rivers","Great White, Hammerhead, etc."
+Manta Ray,"200 – 1,500+ kg",Gentle filter feeder,Tropical oceans,Very large wingspan
+Stingray,5 – 300 kg,"Bottom dweller, venomous tail","Oceans, some rivers",Can sting if stepped on
+Swordfish,50 – 650 kg,"Fast hunter, long bill",Open oceans,Very fast swimmer
+Marlin,50 – 800 kg,"Fast hunter, long bill",Open oceans,Popular game fish
+Squid,0.1 – 500+ kg,"Intelligent, jet propulsion",Oceans,Giant squid can be huge
+Octopus,0.1 – 100+ kg,"Highly intelligent, problem solver","Oceans, reefs",Can change color and shape
+Crab,0.1 – 20 kg,"Scavenger, sideways walker","Oceans, beaches, rivers",Many species
+Lobster,0.5 – 20 kg,"Scavenger, bottom dweller","Oceans, rocky areas",Popular food
+Shrimp / Prawn,5 – 300 g,Small scavenger,"Oceans, rivers, farms",Very common food source
+Dolphin,50 – 600 kg,"Intelligent, social, playful","Oceans, some rivers",Highly intelligent mammal
+Whale,"2,000 – 150,000+ kg","Largest animal, filter feeder",Oceans,Blue whale is the largest animal
+Orca (Killer Whale),"3,000 – 10,000 kg","Apex predator, intelligent",Oceans,Hunts in pods
+Seal,50 – 400 kg,"Swims well, clumsy on land","Cold oceans, ice",Cute but can be aggressive
+Sea Lion,"100 – 1,000 kg","Social, loud, agile swimmer","Coasts, islands",Can walk on land better than seals
+Manatee,400 – 600 kg,"Gentle, slow, herbivore","Warm rivers, coastal waters","""Sea cow"", very peaceful"
+Dugong,150 – 400 kg,"Herbivore, slow","Coastal waters, seagrass beds",Similar to manatee
+Capybara,35 – 70 kg,"Calm, social, semi-aquatic","Rivers, wetlands","Largest rodent, loves water"
