@@ -1,0 +1,210 @@
+Some of the monsters:
+Name,Weight Range,Typical Behavior,Habitat,Notes
+Slime,5 – 50 kg,"Amorphous, acidic, slow","Dungeons, forests, swamps",Classic beginner monster
+Goblin,20 – 60 kg,"Cowardly in groups, aggressive","Forests, caves, ruins",Often appears in hordes
+Hobgoblin,60 – 120 kg,Smarter and stronger than goblins,"Caves, ruins, war camps",Often leads goblin groups
+Orc,80 – 200 kg,"Aggressive, tribal, strong","Mountains, forests, badlands",Loves battle and loot
+Ogre,200 – 600 kg,"Slow, very strong, dumb","Caves, mountains, forests",Loves smashing things
+Troll,300 – 900 kg,"Regenerates, very tough","Caves, bridges, mountains",Weak to fire and acid
+Minotaur,300 – 700 kg,"Bull-headed, aggressive, maze lover","Labyrinths, ruins",Extremely strong
+Cyclops,"400 – 1,200 kg","One-eyed giant, strong but slow","Mountains, caves",Throws boulders
+Golem,"500 – 5,000+ kg","Mindless, follows orders","Ruins, dungeons, ancient sites","Made of stone, clay, or metal"
+Giant Spider,50 – 400 kg,"Web spinner, venomous","Caves, forests, dungeons",Often in large nests
+Giant Scorpion,100 – 800 kg,"Venomous tail, armored","Deserts, ruins, caves",Very tough exoskeleton
+Manticore,300 – 800 kg,"Lion body, scorpion tail, wings","Mountains, badlands",Deadly venom and flight
+Griffin,150 – 500 kg,"Eagle head + lion body, proud","Mountains, cliffs",Often used as mounts
+Chimera,"400 – 1,200 kg","Lion + goat + snake, multiple heads","Ruins, badlands",Very unpredictable
+Basilisk,100 – 400 kg,Petrifying gaze,"Caves, deserts, ruins",Turns victims to stone
+Cockatrice,30 – 80 kg,"Chicken + serpent, petrifying","Forests, swamps",Smaller than basilisk
+Harpie,40 – 100 kg,"Bird woman, screech, claws","Mountains, cliffs",Often attacks in groups
+Lamia,80 – 200 kg,"Snake lower body, seductive","Deserts, ruins",Can charm victims
+Minotaur Lord,"500 – 1,000 kg","Larger, smarter minotaur","Labyrinths, ancient ruins",Leads minotaur groups
+Elemental (Fire),"100 – 2,000 kg","Made of fire, burns everything","Volcanoes, fire dungeons",Immune to physical attacks
+Elemental (Water),"100 – 2,000 kg","Made of water, flows","Lakes, oceans, water dungeons",Hard to damage
+Mimic,50 – 300 kg,Disguises as treasure chest,"Dungeons, ruins",Surprise attack when opened
+Horned Rabbit,8 – 30 kg,"Fast, charges with horn","Grasslands, forest edges",Classic beginner monster
+Giant Rat,30 – 100 kg,"Aggressive in groups, disease carrier","Sewers, ruins, dungeons",Very common in cities and ruins
+Kobold,20 – 50 kg,"Pack hunter, uses tools","Caves, mines, ruins","Dog-like, often uses weapons"
+Imp,10 – 30 kg,"Mischievous, flies, weak magic","Dungeons, ruins, volcanic areas",Small demon-like creature
+Giant Bat,5 – 40 kg,"Nocturnal, blood sucker or screecher","Caves, ruins, forests",Often found in large swarms
+Killer Bee,1 – 5 kg,"Aggressive swarm, poisonous sting","Forests, meadows",Very dangerous in groups
+Giant Ant,10 – 50 kg,"Colony insect, strong","Underground, forests",Often in massive colonies
+Giant Centipede,20 – 150 kg,"Fast, venomous, many legs","Caves, ruins, forests",Creepy and fast
+Will-o'-Wisp,1 – 5 kg,"Glowing orb, lures victims","Swamps, graveyards, ruins",Hypnotic light
+Slime (Acid),10 – 80 kg,"Acidic body, splits when damaged","Dungeons, swamps, sewers",Classic beginner monster (possible evolution of normal slime)
+Slime (Metal),20 – 150 kg,"Metallic body, very tough","Mines, ancient ruins",Hard to damage (possible evolution of normal slimes)
+Goblin Archer,20 – 55 kg,"Uses bow, keeps distance","Forests, caves, ruins",More dangerous than normal goblins
+Orc Warrior,90 – 220 kg,"Aggressive, uses weapons","Mountains, badlands, forests",Loves battle
+Giant Lizard,50 – 400 kg,"Fast, aggressive, climbs well","Forests, ruins, deserts",Common mid-tier monster
+Basilisk,100 – 500 kg,"Petrifying gaze, venomous bite","Caves, deserts, ruins",Turns victims to stone
+Cockatrice,30 – 100 kg,"Petrifying gaze, chicken-like","Forests, swamps, farms",Smaller than basilisk
+Giant Python,100 – 800 kg,"Constrictor, ambush predator","Jungles, swamps, ruins",Crushes prey to death
+Naga,150 – 600 kg,"Snake lower body, intelligent","Jungles, ruins, temples",Often uses magic or weapons
+Giant Crocodile,"300 – 2,000+ kg","Ambush predator, extremely strong","Rivers, swamps, lakes",Can drag prey underwater
+Giant Alligator,"200 – 1,200 kg","Similar to crocodile, more armored","Swamps, rivers",Very tough hide
+Giant Frog,20 – 150 kg,"Sticky tongue, venomous","Swamps, lakes, ruins",Can swallow prey whole
+Giant Toad,50 – 300 kg,"Sticky tongue, poisonous skin","Swamps, caves, forests",Can paralyze with tongue
+Salamander (Fire),30 – 200 kg,"Fire-resistant, breathes fire","Volcanoes, fire dungeons",Often lives near lava
+Komodo Dragon,50 – 150 kg,"Venomous bite, scavenger","Islands, jungles",Real-world inspired
+Giant Chameleon,30 – 120 kg,"Color changing, long tongue","Jungles, forests",Excellent camouflage
+Giant Iguana,40 – 200 kg,Herbivore but aggressive when threatened,"Jungles, cliffs","Spiky tail, strong claws"
+Giant Turtle,"500 – 5,000+ kg","Extremely armored, slow","Rivers, lakes, oceans",Can be used as mobile fortress
+Sea Turtle (Giant),"300 – 3,000 kg",Peaceful but dangerous when provoked,"Oceans, coastal waters",Very long lifespan
+Axolotl (Giant),20 – 100 kg,"Regenerates limbs, cute but deadly","Lakes, underground rivers",Can regrow body parts
+Newt (Giant),10 – 60 kg,"Amphibious, sticky skin","Swamps, caves, rivers",Often in large groups
+Monitor Lizard (Giant),80 – 400 kg,"Fast, intelligent, strong claws","Jungles, savannahs, ruins",Very aggressive
+Gorgon,200 – 600 kg,"Snake hair, petrifying gaze","Caves, ruins, labyrinths","Mythical, extremely dangerous"
+
+Some of the plant monsters:
+Name,Weight Range,Typical Behavior,Habitat,Notes
+Treant,"2,000 – 20,000+ kg","Slow, wise, protective of forests",Ancient forests,Can animate trees
+Mandragora,5 – 30 kg,"Screams when pulled, poisonous","Forests, gardens, ruins",Deadly scream when uprooted
+Alraune,50 – 150 kg,Seductive flower woman,"Jungles, ruins, ancient gardens",Charms victims with scent
+Giant Venus Flytrap,100 – 800 kg,"Carnivorous, closes on prey","Swamps, jungles",Can swallow medium creatures
+Pitcher Plant (Giant),"200 – 1,500 kg",Traps and dissolves prey,"Jungles, swamps",Digestive acid inside
+Man-Eating Flower,50 – 400 kg,Lures prey with scent,"Forests, ruins, caves",Often brightly colored
+Assassin Vine,100 – 600 kg,"Mobile vine, strangles prey","Forests, ruins",Can move and attack
+Shambling Mound,"500 – 4,000 kg","Amorphous plant mass, engulfs","Swamps, forests",Very hard to damage
+Tendriculos,"800 – 5,000 kg","Large plant monster, swallows whole","Jungles, ancient ruins",Can regrow quickly
+Yellow Musk Creeper,50 – 300 kg,"Releases spores, mind control","Dungeons, ruins, caves",Creates zombie-like thralls
+Corpse Flower,100 – 500 kg,Smells like rotting flesh,"Swamps, graveyards, ruins",Attracts scavengers
+Giant Cactus,"300 – 2,000 kg","Spiky, stores water","Deserts, dry badlands",Can shoot needles
+Whip Vine,80 – 400 kg,"Long vines, whips and grabs","Jungles, forests, ruins",Can attack from distance
+Strangler Vine (Kudzu),"200 – 1,500 kg","Rapid growth, smothers prey","Forests, ruins, abandoned areas",Grows extremely fast
+Myconid (Giant Mushroom),50 – 300 kg,"Releases spores, intelligent","Caves, underground forests",Often in colonies
+Dryad,40 – 100 kg,"Tree spirit, protective",Ancient forests,Can charm or curse
+Bramble,100 – 600 kg,"Thorny, mobile plant mass","Forests, ruins, badlands",Very painful to touch
+Bloodthorn,80 – 400 kg,Drains blood from victims,"Cursed forests, ruins","Red thorns, vampiric"
+Rafflesia (Giant),100 – 400 kg,"Largest flower, horrible smell","Jungles, swamps","Parasitic, attracts flies"
+Ent,"5,000 – 30,000+ kg",Ancient tree guardian,Old growth forests,Extremely wise and powerful
+
+Some of the Elementals:
+Name,Weight Range,Typical Behavior,Habitat,Notes
+Fire Elemental,"50 – 2,000 kg","Burns everything, aggressive","Volcanoes, fire dungeons","Immune to fire, weak to water"
+Water Elemental,"100 – 5,000 kg","Fluid, can drown victims","Lakes, oceans, water dungeons",Hard to damage with physical attacks
+Earth Elemental,"500 – 10,000+ kg","Slow, extremely strong, durable","Caves, mountains, ruins","Very tough, immune to physical"
+Air / Wind Elemental,10 – 500 kg,"Fast, invisible, knocks down","High mountains, sky dungeons","Hard to hit, can fly"
+Lightning / Storm Elemental,"50 – 1,500 kg","Electrified, fast, explosive","Thunderstorms, high mountains",Can paralyze with lightning
+Ice Elemental,"100 – 3,000 kg","Freezes victims, brittle but sharp","Frozen tundras, ice dungeons",Weak to fire
+Magma / Lava Elemental,"300 – 8,000 kg","Extremely hot, melts everything","Volcanoes, lava lakes",Very dangerous up close
+Mud / Swamp Elemental,"200 – 4,000 kg","Slow, sticky, engulfs prey","Swamps, bogs, wetlands",Can trap and suffocate
+Sand Elemental,"100 – 2,000 kg","Blinds with sand, abrasive","Deserts, dunes",Can create sandstorms
+Crystal Elemental,"300 – 6,000 kg","Sharp crystals, reflective","Crystal caves, ancient ruins",Can refract light into lasers
+Metal Elemental,"500 – 12,000+ kg","Extremely tough, magnetic","Mines, forges, ruins",Can control metal objects
+Wood / Plant Elemental,"200 – 5,000 kg","Regenerates, thorny, grows fast","Forests, jungles",Heals in sunlight
+Poison / Acid Elemental,"50 – 1,500 kg","Corrosive, toxic gas","Swamps, toxic caves, ruins",Extremely dangerous to touch
+Shadow / Dark Elemental,10 – 800 kg,"Intangible in darkness, drains life","Deep caves, shadow realms",Weak in bright light
+Light / Holy Elemental,"50 – 1,500 kg","Radiant, blinds and burns evil","Holy sites, ancient temples","Heals allies, damages undead"
+Steam Elemental,"50 – 1,000 kg","Hot vapor, scalds and blinds","Hot springs, volcanic areas",Can turn invisible in steam
+Dust / Ash Elemental,30 – 600 kg,"Blinds with dust, suffocates","Deserts, volcanic ash fields",Weak but annoying
+Blood Elemental,"100 – 2,000 kg","Drains blood, vampiric","Battlefields, cursed lands",Heals by absorbing blood
+Void Elemental,10 – 500 kg,"Consumes matter, creates rifts","Ancient ruins, dimensional tears",Extremely rare and dangerous
+Chaos Elemental,"50 – 3,000 kg","Unpredictable, changes form","Wild magic zones, ancient ruins",Random elemental effects
+
+Some of the Undead and Advanced Updead
+Name,Weight Range,Typical Behavior,Habitat,Notes
+Skeleton,10 – 30 kg,"Mindless, weak individually","Dungeons, graveyards, ruins",Classic low-level undead
+Zombie,60 – 130 kg,"Slow, infectious, mindless","Graveyards, battlefields, ruins",Spreads disease
+Ghoul,50 – 120 kg,"Faster than zombie, paralyzing claws","Graveyards, ruins, dungeons",Eats flesh
+Wight,60 – 140 kg,"Intelligent, drains life","Ruins, tombs, battlefields",Stronger and smarter
+Specter / Wraith,0 kg (ethereal),"Intangible, drains life","Ruins, graveyards, dungeons",Hard to hit physically
+Ghost,0 kg (ethereal),"Can possess, drain life","Haunted houses, ruins",Often tied to a location
+Banshee,0 kg (ethereal),"Wailing scream, fear and death","Graveyards, ruins, swamps",Deadly scream attack
+Skeleton Warrior,15 – 45 kg,"Armed, follows orders","Dungeons, ruins, battlefields",Often carries rusty weapons
+Zombie Warrior,70 – 150 kg,"Tougher zombie, armed","Battlefields, ruins",Harder to put down
+Mummy,80 – 200 kg,"Cursed, disease, very tough","Ancient tombs, deserts, ruins",Often wrapped in bandages
+Revenant,70 – 160 kg,"Intelligent, seeks revenge","Battlefields, ruins",Very hard to permanently kill
+Dullahan,80 – 180 kg,"Headless horseman, carries head","Roads, battlefields, ruins",Can speak through its head
+Death Knight,100 – 250 kg,"Intelligent, heavily armored","Ruins, fortresses, battlefields",Fallen paladin or knight
+Lich,60 – 150 kg,"Powerful spellcaster, phylactery","Tombs, towers, dungeons",Extremely dangerous
+Lich Lord,80 – 200 kg,Even more powerful lich,"Ancient ruins, dark fortresses",Commands other undead
+Vampire,70 – 160 kg,"Charms, drains blood, regenerates","Castles, ruins, cities",Weak to sunlight and holy
+Vampire Lord,90 – 200 kg,"Ancient, extremely powerful","Dark castles, ancient ruins",Can create vampire spawn
+Bone Dragon,"2,000 – 15,000 kg","Skeletal dragon, breath weapon","Ancient ruins, graveyards",Still very dangerous
+Skeletal Dragon,"3,000 – 25,000 kg",Larger bone dragon,"Ancient dragon graves, ruins",Extremely powerful
+Death Tyrant,"2,000 – 8,000 kg","Undead Beholder, eye rays","Deep dungeons, ancient ruins",Extremely rare and deadly
+
+Some of the Dragons
+Name,Weight Range,Typical Behavior,Habitat,Notes
+Wyrmling (Baby Dragon),50 – 300 kg,"Curious, weak, but still dangerous","Mountains, caves, ancient ruins",Very rare to encounter
+Young Dragon,"500 – 50,000 kg","Aggressive, learning its power","Mountains, volcanoes, ruins",Still very dangerous
+Adult Dragon (Smaug-sized),"150,000 – 400,000 kg","Intelligent, greedy, extremely powerful","Deep mountains, ancient lairs",Size of Smaug from Lord of the Rings
+Ancient Dragon,"500,000 – 2,000,000+ kg","Wise, extremely powerful, long memory","Ancient mountains, volcanoes",Centuries or millennia old
+Greater Dragon,"1,000,000 – 5,000,000+ kg","Massive, can destroy cities",Remote mountain ranges,Significantly larger than Smaug
+Ancient Greater Dragon,"5,000,000 – 20,000,000+ kg","Cataclysmic power, near god-like","Deepest mountains, hidden realms","Extremely rare, world-threatening"
+Fire Dragon,"150,000 – 600,000 kg","Breathes fire, loves heat","Volcanoes, hot mountains",Most common dragon type
+Ice Dragon,"150,000 – 550,000 kg","Breathes ice, freezes everything","Frozen mountains, tundras",Weak to fire
+Storm / Lightning Dragon,"140,000 – 500,000 kg","Breathes lightning, controls weather","High mountains, storm regions",Fast and aggressive
+Earth / Stone Dragon,"200,000 – 800,000 kg","Breathes sand/rock, extremely tough","Mountains, canyons",Very durable
+Shadow / Dark Dragon,"130,000 – 450,000 kg","Breathes shadow, drains life","Deep caves, shadow realms",Hard to see in darkness
+Holy / Light Dragon,"140,000 – 500,000 kg","Breathes light, holy magic","Ancient temples, holy mountains","Rare, often good-aligned"
+Poison / Acid Dragon,"120,000 – 480,000 kg","Breathes acid, toxic gas","Swamps, toxic mountains",Extremely dangerous up close
+Crystal Dragon,"160,000 – 520,000 kg","Breathes crystal shards, reflective","Crystal caves, ancient ruins",Beautiful but deadly
+Wyvern,"200 – 20,000 kg","Smaller dragon, two legs + wings","Mountains, cliffs, ruins",Much weaker than true dragons
+Drake,"300 – 4,000 kg","Lesser dragon, no breath weapon","Mountains, caves",Often used as mounts
+
+Some of the water based monsters
+Name,Weight Range,Typical Behavior,Habitat,Notes
+Kraken,"10,000 – 1,000,000+ kg","Massive tentacles, ship destroyer",Deep oceans,Classic sea terror
+Leviathan,"50,000 – 5,000,000+ kg",World-ending sea serpent,Deepest oceans,"Extremely rare, cataclysmic"
+Sea Serpent,"2,000 – 50,000 kg","Long, serpentine, aggressive","Oceans, deep lakes",Often attacks ships
+Giant Shark,"500 – 5,000 kg",Aggressive predator,"Oceans, coastal waters",Very dangerous
+Megalodon,"50,000 – 100,000+ kg",Ancient giant shark,Deep oceans,Extremely rare
+Colossal Squid,"200 – 1,000 kg","Long tentacles, ink cloud",Deep oceans,Can drag prey underwater
+Giant Squid,100 – 500 kg,"Intelligent, jet propulsion",Deep oceans,Can attack ships
+Giant Octopus,50 – 300 kg,"Highly intelligent, problem solver","Oceans, reefs, caves",Can change color and shape
+Giant Crab,"100 – 2,000 kg","Armored, powerful claws","Beaches, shallow waters, reefs",Very tough shell
+Giant Lobster,50 – 800 kg,"Armored, powerful claws","Rocky coasts, reefs",Very strong
+Siren,40 – 120 kg,"Beautiful singing, lures victims","Coastal waters, islands",Often sings to shipwreck sailors
+Merfolk (Hostile),50 – 150 kg,"Aggressive, uses weapons","Oceans, coastal waters",Can be very territorial
+Sea Dragon,"5,000 – 50,000 kg",Dragon adapted to water,"Deep oceans, underwater caves",Breathes water or steam
+Aboleth,"2,000 – 8,000 kg","Mind control, ancient, intelligent","Deep underground lakes, oceans",Extremely dangerous psionically
+Giant Anglerfish,"100 – 1,500 kg",Lures prey with light,Deep ocean trenches,Huge mouth with sharp teeth
+Giant Electric Eel,50 – 400 kg,Generates powerful electricity,"Rivers, coastal waters",Can stun or kill with shock
+Hydra (Aquatic),"1,000 – 10,000 kg","Multiple heads, regenerates","Swamps, lakes, coastal waters",Cutting off heads makes more
+Sea Hydra,"2,000 – 15,000 kg",Aquatic version of hydra,"Deep oceans, underwater ruins",Even more dangerous
+Giant Manta Ray,"300 – 3,000 kg",Peaceful but can be dangerous,Tropical oceans,Very large wingspan
+Giant Stingray,"100 – 1,500 kg","Venomous tail, bottom dweller","Oceans, shallow waters",Can sting with deadly venom
+Armored Carp,50 – 400 kg,"Extremely tough scales, aggressive","Rivers, lakes",Classic isekai river monster
+Giant Catfish,"100 – 1,500+ kg","Bottom dweller, powerful whiskers","Rivers, lakes, swamps",Can swallow medium creatures
+Giant Pike,50 – 400 kg,"Ambush predator, long body","Rivers, lakes",Very fast strike
+River Serpent,"200 – 2,000 kg","Long, serpentine, aggressive","Rivers, large lakes",Often attacks boats
+Lake Serpent,"500 – 5,000 kg","Massive, lake guardian","Large lakes, lochs",Nessie-style monster
+Swamp Hydra,"800 – 8,000 kg","Multiple heads, regenerates","Swamps, marshes",Extremely dangerous
+Giant Frog,20 – 150 kg,"Sticky tongue, venomous","Swamps, lakes, ponds",Can swallow prey whole
+Giant Toad,50 – 350 kg,"Paralyzing tongue, poisonous","Swamps, caves, forests",Very common in wetlands
+Mud Golem,"300 – 3,000 kg","Slow, sticky, engulfs prey","Swamps, muddy rivers",Very hard to damage
+Swamp Elemental,"200 – 4,000 kg","Amorphous, drowns victims","Swamps, bogs, wetlands",Can suffocate prey
+Giant Leech,5 – 50 kg,"Blood sucker, attaches to prey","Swamps, slow rivers",Often in groups
+Giant Newt,10 – 80 kg,"Amphibious, sticky skin","Swamps, caves, rivers",Often appears in groups
+Axolotl (Giant),20 – 120 kg,"Regenerates, cute but deadly","Underground lakes, rivers",Can regrow limbs
+River Dragon,"1,000 – 10,000 kg",Dragon adapted to freshwater,"Large rivers, lakes",Breathes steam or water jets
+Kappa,30 – 80 kg,"Turtle-like, mischievous, strong","Rivers, lakes, ponds","Loves cucumbers, can be dangerous"
+Bunyip,100 – 600 kg,"Australian lake monster, aggressive","Lakes, swamps, billabongs",Very territorial
+Each-uisge,200 – 800 kg,"Shapeshifter, drowns victims","Lakes, rivers (Scottish)",Celtic water horse
+Kelpie,150 – 700 kg,"Shapeshifter, lures victims","Rivers, lakes",Scottish water spirit
+Giant Salamander,30 – 80 kg,"Large amphibian, powerful bite","Rivers, mountain streams",Real-world inspired
+Armored Alligator,"200 – 1,500 kg",Extremely tough hide,"Swamps, slow rivers",Very hard to damage
+
+Demons/Devils (monsters in the concept of the other races, constant war made sure of that)
+Name,Weight Range,Typical Behavior,Habitat,Notes
+Imp,10 – 30 kg,"Mischievous, weak magic, flies","Dungeons, ruins, demonic realms",Lowest tier demon
+Lesser Demon,50 – 150 kg,"Aggressive, low intelligence","Demonic incursions, ruins",Common foot soldier
+Demon Soldier,80 – 200 kg,"Disciplined, uses weapons","Demonic armies, borderlands",More organized than lesser demons
+Hellhound,80 – 250 kg,"Fire breath, tracks by scent","Volcanic areas, demonic realms",Often used as guard dogs
+Succubus,50 – 120 kg,"Seductive, drains life through pleasure","Cities, ruins, demonic courts",Highly intelligent and dangerous
+Incubus,60 – 140 kg,Male version of succubus,"Cities, ruins, demonic courts",Drains life energy
+Demon Warrior,100 – 300 kg,"Strong, uses weapons and magic","Demonic armies, battlefields",Mid-tier combatant
+Vrock,150 – 400 kg,"Vulture-like, screech, spores","Demonic realms, battlefields",Chaotic demon
+Glabrezu,"300 – 1,200 kg","Four arms, pincer claws, magic","Demonic realms, ruins",Powerful and cunning
+Marilith,200 – 600 kg,"Six arms, snake lower body","Demonic realms, ancient ruins",Master swordswoman
+Hezrou,200 – 700 kg,"Toad-like, toxic, strong","Swamps, demonic realms",Extremely tough
+Balor,"1,000 – 4,000 kg","Fire demon, whip + sword, wings",Volcanic demonic realms,High-ranking demon
+Pit Fiend,"1,500 – 5,000 kg","Devil, extremely powerful, wings","Hellish planes, deep dungeons","Lawful evil, commands legions"
+Greater Demon,"500 – 3,000 kg","High-ranking, intelligent, magic","Demonic realms, major incursions",Often leads armies
+Demon Lord,"2,000 – 15,000+ kg","Extremely powerful, unique abilities","Demonic realms, conquered lands",Rules over lesser demons
+Archdemon,"5,000 – 30,000+ kg",Near god-like power,Deepest demonic realms,Only a few exist
+Cambion,60 – 150 kg,"Half-demon, half-mortal","Borderlands, cities",Often leads cults or small groups (considered a half monster)
+Tiefling (Corrupted),50 – 120 kg,Mortal with demonic blood,"Cities, borderlands",Can be good or evil (not necesseraly a monster, but suffers more judgement than other)
+Demon Beast,100 – 800 kg,"Animalistic demon, feral","Demonic borderlands, ruins",Often mutated animals
+Abyssal Horror,"500 – 10,000+ kg","Formless, maddening presence",Deep abyssal rifts,Can drive mortals insane
