@@ -50,8 +50,8 @@ When the protagonist activates Appraisal (usually by focusing their gaze on a ta
 Name, Race, Age, Gender, Title(s)
 Level (e.g., Lv. 27)
 HP, MP, SP, Strength, Vitality, Agility, Magic Power, Luck (and any other stats the world uses)
-Skills (with levels or ranks, e.g., Sword Mastery Lv.5, Fire Magic Lv.3, Cooking Lv.2)
-Affinities, Resistances, Blessings/Curses
+Skills (with ranks (G-SSS), e.g., Short Sword D, Fire Magic C, Cooking F)
+Affinities (magic specific, e.g Fire Magic Affinity, Space Magic Affinity)(affinities are only seen in children or untrained adults, after that affinity was exploited/trained/used the affinity skill transforms into a full magic skill e.g. Fire Magic, Time Magic), Resistances (G-SSS), Blessings (lesser, normal, greater)/Curses 
 Condition (Poisoned, Fatigued, etc.)
 Potential / Hidden Talents (sometimes visible only at higher Appraisal levels)
 For items: Rarity, Effects, Durability, Hidden Properties, Required Stats to use, Crafting Requirements, Value in gold.
@@ -65,17 +65,17 @@ At higher proficiency, Appraisal can be used silently, at range, or in rapid suc
 Reality vs. Game Layer
 Crucially: The world does NOT run on game mechanics for its inhabitants.
 NPCs and monsters live fully realistic lives. A farmer does not think in “levels” or “skill points.” He simply gets better at farming through years of practice and experience.
-A knight does not see his own “Sword Mastery Lv.7.” He only feels that he has trained hard and become quite skilled with the blade.
+A knight does not see his own “Long Sword C.” He only feels that he has trained hard and become quite skilled with the long blade.
 Magic exists and follows its own natural laws (mana, chants, affinities), but people do not see MP bars or spell cooldowns.
 Monsters get stronger with age and feeding, not by gaining “XP.”
 Death, aging, pregnancy, emotions, economies, politics — everything functions with real-world logic and consequences.
 The protagonist is the only person who perceives this hidden “game layer” overlay. This creates constant dramatic irony and strategic advantage.
 Progression of Appraisal
 The skill itself can level up through use:
-Initial Appraisal: Basic stats and visible skills.
-Intermediate: Hidden skills, exact numerical values, weaknesses.
-Advanced: Future growth predictions, loyalty/affection meters, detailed item creation recipes, true names of legendary beings, even glimpses of “fate” or hidden quests.
-Ultimate: Possibly reading thoughts, seeing through illusions perfectly, or appraising abstract concepts (a country’s military strength, a person’s trauma, the quality of a relationship).
+Initial Appraisal (G-F): Basic stats and visible skills.
+Intermediate (E-D): Hidden skills, exact numerical values, weaknesses.
+Advanced (C-A: Future growth predictions, loyalty/affection meters, detailed item creation recipes, true names of legendary beings, even glimpses of “fate” or hidden quests.
+Ultimate (S-SSS): Possibly reading thoughts, seeing through illusions perfectly, or appraising abstract concepts (a country’s military strength, a person’s trauma, the quality of a relationship).
 
 Skill levels seen by appraisal
 When the protagonist uses Appraisal, every skill is displayed with a clear rank from G to SSS. These ranks represent the absolute level of mastery and power of that skill in the world, visible only to the protagonist. No other character in the world knows or thinks in these letter grades — they only feel “I’m pretty good at this” or “I’ve trained for decades.”
@@ -111,6 +111,8 @@ Example: Ancient Demon Lords, Dragon Kings, or the greatest sages in history.
 SSS Rank – God-Tier / Reality-Bending
 Never seen. The absolute pinnacle. Skills at this level can affect the laws of the world itself. Only heroes summoned from another world, ancient gods, or final-boss-level beings usually possess them.
 Example: Skill that can cut through dimensions, resurrect the dead, or rewrite magic itself.
+Hidden EX Rank - God Feared / Progetitors Power
+No references
 
 Key Differences & Flavor Rules
 
