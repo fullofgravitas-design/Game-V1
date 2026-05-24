@@ -1,0 +1,48 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                              【 CHARACTER STATUS 】                          ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║  **Name:** [Player Name]                                                    ║
+║  **Race:** [Human / Elf / Dwarf / Beastkin / Other]                         ║
+║  **Class / Title:** [e.g. Adventurer, Mage, Warrior, etc.]                  ║
+║  **Level:** [Current Level]                                                 ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║  **Health (HP):**   ██████████  [Current] / [Max]                           ║
+║  **Mana (MP):**     ███████░░░  [Current] / [Max]                           ║
+║  **Stamina:**       █████████▒  [Current] / [Max]                           ║
+║  **Life Points (LP):**  [Current]                                           ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║  **Strength:** [G-SSS]    **Dexterity:** [G-SSS]    **Vitality:** [G-SSS]  ║
+║  **Wisdom:** [G-SSS]   **Intelligence:** [G-SSS]   **Charisma:**  [G-SSS]  ║
+║  **Endurance:** [G-SSS]   **Agility:**  [G-SSS]  **Perception:**  [G-SSS]  ║
+║  **Luck:**  [G-SSS]                                                        ║ (only the player has the luck attribute)
+╠════════════════════════════════════════════════════════════════════════════╣
+║  **Experience (XP):** [Current XP] / [XP needed for next level]            ║ (xp overshoot carries over.)
+╠════════════════════════════════════════════════════════════════════════════╣
+║  **status effects:**                                                       ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║  **Active Blessings/Curse:**                                                ║
+║  • [Blessing Name] (Source: [God])                                          ║
+║  • [None]                                                                   ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║  **Skills:**                                                                ║
+║  • [Skill Name] (G-SSS)                                                     ║
+║  • [Skill Name] (Rankless)                                                  ║
+║  • [Skill Name] (G-SSS)                                                     ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║  **Guild Ranks:**                                                           ║
+║  • **Veilwardens (Adventurers Guild):** [Copper Leaf / Iron Fang / ...]     ║
+║  • **Other Guild:** [Guild Name] – [Rank]                                   ║
+║  • **Other Guild:** [Guild Name] – [Rank]                                   ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║  **Inventory:**                                                             ║
+║  • [Item Name] × [Quantity]                                                 ║
+║  • [Item Name] × [Quantity]                                                 ║
+║  • [Currency]: [X] Platinum / [X] Gold / [X] Silver / [X] Copper            ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║  **Local Reputation:**                                                      ║
+║  • [Hated / Disliked / Neutral / Liked / Beloved]                           ║
+║  **Effects of Reputation:**                                                 ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║  **Current Location:** [Town / Administrative Regions / sovereign Territory ║  (administrative region may contain a barony inside a county) / (sovereign territory: kingdom or Grand duchy for a human nation)
+║  **Date & Time:** Day Month Year [XXXX] After Shattering — [Season]                  ║ 
+╚════════════════════════════════════════════════════════════════════════════╝
