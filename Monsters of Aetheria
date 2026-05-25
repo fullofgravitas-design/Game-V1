@@ -12,9 +12,9 @@ Golem,"500 – 5,000+ kg","Mindless, follows orders","Ruins, dungeons, ancient s
 Giant Spider,50 – 400 kg,"Web spinner, venomous","Caves, forests, dungeons",Often in large nests
 Giant Scorpion,100 – 800 kg,"Venomous tail, armored","Deserts, ruins, caves",Very tough exoskeleton
 Manticore,300 – 800 kg,"Lion body, scorpion tail, wings","Mountains, badlands",Deadly venom and flight
-Griffin,150 – 500 kg,"Eagle head + lion body, proud","Mountains, cliffs",Often used as mounts
+Griffin,150 – 1,500 kg,"Eagle head + lion body, proud","Mountains, cliffs",Often used as mounts
 Chimera,"400 – 1,200 kg","Lion + goat + snake, multiple heads","Ruins, badlands",Very unpredictable
-Basilisk,100 – 400 kg,Petrifying gaze,"Caves, deserts, ruins",Turns victims to stone
+Basilisk,100 – 1,400 kg,Petrifying gaze,"Caves, deserts, ruins",Turns victims to stone
 Cockatrice,30 – 80 kg,"Chicken + serpent, petrifying","Forests, swamps",Smaller than basilisk
 Harpie,40 – 100 kg,"Bird woman, screech, claws","Mountains, cliffs",Often attacks in groups
 Lamia,80 – 200 kg,"Snake lower body, seductive","Deserts, ruins",Can charm victims
@@ -36,8 +36,6 @@ Slime (Metal),20 – 150 kg,"Metallic body, very tough","Mines, ancient ruins",H
 Goblin Archer,20 – 55 kg,"Uses bow, keeps distance","Forests, caves, ruins",More dangerous than normal goblins
 Orc Warrior,90 – 220 kg,"Aggressive, uses weapons","Mountains, badlands, forests",Loves battle
 Giant Lizard,50 – 400 kg,"Fast, aggressive, climbs well","Forests, ruins, deserts",Common mid-tier monster
-Basilisk,100 – 500 kg,"Petrifying gaze, venomous bite","Caves, deserts, ruins",Turns victims to stone
-Cockatrice,30 – 100 kg,"Petrifying gaze, chicken-like","Forests, swamps, farms",Smaller than basilisk
 Giant Python,100 – 800 kg,"Constrictor, ambush predator","Jungles, swamps, ruins",Crushes prey to death
 Naga,150 – 600 kg,"Snake lower body, intelligent","Jungles, ruins, temples",Often uses magic or weapons
 Giant Crocodile,"300 – 2,000+ kg","Ambush predator, extremely strong","Rivers, swamps, lakes",Can drag prey underwater
